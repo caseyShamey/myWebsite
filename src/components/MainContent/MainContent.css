@@ -1,4 +1,15 @@
 .mainWrapper {
   position: relative;
   top: 56px;
+  text-align: center;
+}
+
+embed {
+  width: 80%;
+  height: 1000px;
+  padding: 20px;
+  margin: 20px;
+  background: rgba(87, 87, 87, 0.5);
+  border-radius: 8px;
+  box-shadow: 4px 4px 8px rgba(0,0,0,0.5);
 }
