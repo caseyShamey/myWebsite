@@ -5,6 +5,7 @@ import SideDrawer from './components/SideDrawer/SideDrawer';
 import Backdrop from './components/Backdrop/Backdrop';
 import InfoIcon from './components/InfoIcon/InfoIcon';
 import MainContent from './components/MainContent/MainContent';
+import Footer from './components/Footer/Footer';
 
 
 class App extends Component {
@@ -37,6 +38,7 @@ class App extends Component {
         {backDrop}
         <InfoIcon />
         <MainContent />
+        <Footer />
 
       </div>
     )

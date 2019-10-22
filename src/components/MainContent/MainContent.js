@@ -10,7 +10,7 @@ const mainContent = props => {
   return (
     <main className='mainWrapper'>
       <InfoIcon />
-      <h1>Casey</h1>
+      <h1>Casey Shamey</h1>
       <embed src={resume} type="application/pdf" />
     </main>
   )
